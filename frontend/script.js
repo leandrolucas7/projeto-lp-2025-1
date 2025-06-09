@@ -1,7 +1,7 @@
 /***** PRINT BLOCK *****/
 Blockly.defineBlocksWithJsonArray([{
   "type": "print_block",
-  "message0": "print %1",
+  "message0": "Imprime %1",
   "args0": [
     {
       "type": "field_input",
@@ -18,7 +18,7 @@ Blockly.defineBlocksWithJsonArray([{
 /***** IF-ELSE BLOCK *****/
 Blockly.defineBlocksWithJsonArray([{
   "type": "if_else_block",
-  "message0": "if %1 then %2 else %3",
+  "message0": "Se %1 Então %2 Senão %3",
   "args0": [
     {
       "type": "input_value",
@@ -44,7 +44,7 @@ Blockly.defineBlocksWithJsonArray([{
 /***** SUM BLOCK *****/
 Blockly.defineBlocksWithJsonArray([{
   "type": "sum_block",
-  "message0": "sum %1 + %2",
+  "message0": "Soma %1 + %2",
   "args0": [
     {
       "type": "input_value",
