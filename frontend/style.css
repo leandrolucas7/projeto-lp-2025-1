@@ -1,4 +1,8 @@
 #blocklyDiv {
-    height: 700px;
-    width: 800px;
+    height: 500px;
+    width: 900px;
 }
+
+.subtitle {
+    color: chocolate;
+} 
